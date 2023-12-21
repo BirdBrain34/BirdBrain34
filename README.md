@@ -14,3 +14,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
+# Git Commands Cheat Sheet
+
+Here are the Git commands to use for this repository.
+
+## Configuration
+```bash
+git init - initializes a Git repository in your current directory
+git clone <repository_url> - Creates a clone of the existing repository to a new directory and has the "<repository_url>" to specify on what repository you want to clone.
+git add <file_name> - Makes stages for "git commit" and used the "<file_name>" to specify on which file u want to commit a change.
+git commit -m "Your commit message" - Creates a message for every time you commit a change.
+git log - Views the commits you created on the repository.
