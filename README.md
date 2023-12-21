@@ -31,7 +31,7 @@ git version - shows the version of the current Git.
 
 ## Example
 
-1. git init 
+1. git init
 ![Git #1](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/2d576654-33f6-4623-910d-fc15bbe7dcfe)
 2. git clone 
 ![Git #2](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/66406d0c-e71d-4b75-854a-c32a00d7cdbc)
@@ -39,7 +39,7 @@ git version - shows the version of the current Git.
 ![Git #3 1](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/de843a48-bbf3-48ff-8b7f-2e685a822476)
 ![Git #3 2](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/d05faac2-ac8f-4c9f-a89d-6800cf7304a7)
 4. git commit -m
-
+![Git #4](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/236a127a-5b6b-4220-b01e-22b3b0aaf6aa)
 5. git log 
 ![Git #5](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/69e85d58-56cb-44fa-bd95-0493ffbcf710)
 6. git status
