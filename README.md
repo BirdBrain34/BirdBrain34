@@ -27,8 +27,11 @@ git commit -m "Your commit message" - Creates a message for every time you commi
 git log - Views the commits you created on the repository.
 ```
 
-##Examples
+## Example
 
-1. git init - ![Git #1](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/2d576654-33f6-4623-910d-fc15bbe7dcfe)
-2. git clone - ![Git #2](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/66406d0c-e71d-4b75-854a-c32a00d7cdbc)
-5. git log - ![Git #5](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/69e85d58-56cb-44fa-bd95-0493ffbcf710)
+1. git init 
+![Git #1](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/2d576654-33f6-4623-910d-fc15bbe7dcfe)
+2. git clone 
+![Git #2](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/66406d0c-e71d-4b75-854a-c32a00d7cdbc)
+5. git log 
+![Git #5](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/69e85d58-56cb-44fa-bd95-0493ffbcf710)
