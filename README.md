@@ -21,7 +21,10 @@ Here are the Git commands to use for this repository.
 ## Configuration
 ```bash
 git init - initializes a Git repository in your current directory
+![Git #1](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/2d576654-33f6-4623-910d-fc15bbe7dcfe)
 git clone <repository_url> - Creates a clone of the existing repository to a new directory and has the "<repository_url>" to specify on what repository you want to clone.
+![Git #2](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/66406d0c-e71d-4b75-854a-c32a00d7cdbc)
 git add <file_name> - Makes stages for "git commit" and used the "<file_name>" to specify on which file u want to commit a change.
 git commit -m "Your commit message" - Creates a message for every time you commit a change.
 git log - Views the commits you created on the repository.
+![Git #5](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/69e85d58-56cb-44fa-bd95-0493ffbcf710)
