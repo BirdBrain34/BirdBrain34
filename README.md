@@ -8,7 +8,7 @@ Information Technology student specializing in backend development, API integrat
 *   **Languages:** Python, C#, C++, Dart, PHP, JavaScript, HTML
 *   **Frameworks & Technologies:** Node.js, React, Flutter, REST API, CRUD, JSON
 *   **Databases:** MySQL, Oracle SQL, XAMPP
-*   **Tools:** Unity, Git, GitHub
+*   **Tools:**  Git, GitHub
 
 ### Featured Projects
 
