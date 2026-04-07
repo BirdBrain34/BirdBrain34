@@ -1,49 +1,56 @@
-<h1 align="center">Hi 👋, I'm Lance Vincent O. Atendido</h1>
-<h3 align="center">A software engineer with a passion for gaming.</h3>
+# Lance Vincent O. Atendido
+## Software Engineer | IT Student
 
-- 🌱 I’m currently learning **creating a video game and how to integrate game mechanics**
+### Professional Summary
+Information Technology student specializing in backend development, API integration, and software engineering. Proficient in building robust applications using C#, Python, and Dart, with a strong focus on data security and efficient system architecture. Currently seeking an On-the-Job Training (OJT) position to contribute to professional software development projects and refine technical competencies.
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1S2mEr7wYteOSIGH9Wwaczi68iy3O0P8n?usp=sharing](https://drive.google.com/drive/folders/1S2mEr7wYteOSIGH9Wwaczi68iy3O0P8n?usp=sharing)
+### Technical Skills
+*   **Languages:** Python, C#, C++, Dart, PHP, JavaScript, HTML
+*   **Frameworks & Technologies:** Node.js, React, Flutter, REST API, CRUD, JSON
+*   **Databases:** MySQL, Oracle SQL, XAMPP
+*   **Tools:** Unity, Git, GitHub
 
-- 📫 How to reach me **lanceatendido34@gmail.com**
+### Featured Projects
 
-- ⚡ Fun fact **I liek birds.**
-<p align="left">
-</p>
+**[SapPIIre — Secured Autofill System (Ongoing)](https://github.com/BitACDC/SapPIIre)**
+*   Developed the backend infrastructure for a mobile application utilizing QR codes for secure PII (Personally Identifiable Information) transmission.
+*   Implemented secure authentication and relational database management.
+*   **Technologies:** Dart, Flutter, MySQL.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+**[CCIS House Attendance Tracker 2024](https://github.com/jp-gerona/it115l-final-project)**
+*   Built a comprehensive web management system for student records.
+*   Developed the API layer to facilitate communication between the Oracle SQL database and the React frontend, ensuring full CRUD functionality.
+*   **Technologies:** React, Node.js, Oracle SQL.
 
-# Git Commands Cheat Sheet
+**[PokedexCards](https://github.com/BirdBrain34/PokedexCards)**
+*   Created a mobile application for tracking Pokémon card collections.
+*   Integrated a PHP backend via REST API to manage user collection data.
+*   **Technologies:** C#, PHP, MySQL.
 
-Here are the Git commands to use for this repository.
+**[Personify (Twitter Clone API)](https://github.com/BitACDC/Personify)**
+*   Architected a social media API clone with features for authentication, content posting, and social networking logic.
+*   **Technologies:** Node.js, REST API, JSON.
 
-## Configuration
-```bash
-git init - initializes a Git repository in your current directory
-git clone <repository_url> - Creates a clone of the existing repository to a new directory and has the "<repository_url>" to specify on what repository you want to clone.
-git add <file_name> - Makes stages for "git commit" and used the "<file_name>" to specify on which file u want to commit a change.
-git commit -m "Your commit message" - Creates a message for every time you commit a change.
-git log - Views the commits you created on the repository.
-git status - shows the progress that is untracked or has not been commited.
-git version - shows the version of the current Git.
-```
+**[DiceHard](https://github.com/BirdBrain34/DiceHard)**
+*   Developed a roguelike game focusing on complex stat systems, game loops, and enemy logic.
+*   **Technologies:** C#.
 
-## Example
+### Achievements & Certifications
+*   **Awards:** 1st Place Hackathon Winner, Dean's Lister.
+*   **Technical Certifications:**
+    *   CCNA (Cisco Certified Network Associate)
+    *   Ethical Hacking
+    *   CompTIA Tech+
+    *   Google Cloud Certification
+    *   Blockchain Certification
+*   **Proficiencies:** Python (CodeChum Certified), TOEIC (805/990).
 
-1. git init
-![Git #1](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/2d576654-33f6-4623-910d-fc15bbe7dcfe)
-2. git clone 
-![Git #2](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/66406d0c-e71d-4b75-854a-c32a00d7cdbc)
-3. git add
-![Git #3 1](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/de843a48-bbf3-48ff-8b7f-2e685a822476)
-![Git #3 2](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/d05faac2-ac8f-4c9f-a89d-6800cf7304a7)
-4. git commit -m
-![Git #4](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/236a127a-5b6b-4220-b01e-22b3b0aaf6aa)
-5. git log 
-![Git #5](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/69e85d58-56cb-44fa-bd95-0493ffbcf710)
-6. git status
-![Git #6 1](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/1752dc39-aa36-4bda-b95e-e456f64eb1c7)
-![Git #6 2](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/f0807e58-c9c6-4379-9404-94d1cf82e1c8)
-7. git version
-![Git #7](https://github.com/BirdBrain34/BirdBrain34/assets/126303872/30ec6b6a-b99c-49fb-8a36-163a160ba498)
+### Contact and Links
+*   **Email:** lanceatendido34@gmail.com
+*   **Portfolio:** https://birdbrain34.github.io/portfolio/
+
+### Personal Interests
+*   I like playing video games.
+*   I love reading manga and manhwa.
+
+---
