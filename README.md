@@ -47,7 +47,7 @@ Information Technology student specializing in backend development, API integrat
 
 ### Contact and Links
 *   **Email:** lanceatendido34@gmail.com
-*   **Portfolio:** https://birdbrain34.github.io/portfolio/
+*   **Portfolio:** https://birdbrain34.github.io
 
 ### Personal Interests
 *   I like playing video games.
